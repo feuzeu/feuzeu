@@ -77,7 +77,7 @@ Cross-framework service container abstraction for PHP
 
 | Category       | Project Links |
 |----------------|---------------|
-| **Workflow Samples** | [Temporal Recipes](https://github.com/feuzeu/temporal-symfony-samples) |
+| **Workflow Samples** | [Temporal Sample apps](https://github.com/feuzeu/temporal-symfony-samples) |
 | **Database Tools** | [Jaxon DbAdmin](https://github.com/lagdo/dbadmin-mono) |
 | **UI Libraries** | [HTML UI Builder](https://github.com/lagdo/ui-builder-mono) |
 
