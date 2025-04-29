@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Thierry Feuzeu
 
 ### 💡 PHP Architect | Open-Source Innovator | Developer Experience Advocate
-Specializing in **service architecture**, **workflow automation** with Temporal, and **component-based Ajax (Jaxon)**.  
+Specializing in **service architecture**, **workflow automation** with Temporal, and **server-side component-based Ajax (Jaxon)**.  
 Building tools to simplify complex backend systems for PHP developers worldwide.
 
 🔭 **Currently Focused On**:  
@@ -18,9 +18,9 @@ Building tools to simplify complex backend systems for PHP developers worldwide.
 - African Tontine automation  
 
 📫 **Reach Me**:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/thierry-feuzeu/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail)](mailto:thierry.feuzeu@gmail.com)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter)](https://twitter.com/Ti_Aya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/thierry-feuzeu/)  
 
 ⚡ **Fun Fact**:  
 I automate financial group management for traditional African tontines through code!
@@ -49,19 +49,26 @@ I automate financial group management for traditional African tontines through c
 ## 🚀 Featured Projects
 
 ### **Component-Based Ajax**
-[![Jaxon](https://github-readme-stats.vercel.app/api/pin/?username=jaxon-php&repo=jaxon-core&theme=radical)](https://github.com/jaxon-php/jaxon-php)  
+[![Jaxon](https://github-readme-stats.vercel.app/api/pin/?username=jaxon-php&repo=jaxon-core&theme=radical)](https://github.com/jaxon-php/jaxon-core)  
 Framework-agnostic Ajax component library for modern PHP applications
 
 ### **Financial Management**
 [![Siak Tontine](https://github-readme-stats.vercel.app/api/pin/?username=lagdo&repo=tontine&theme=radical)](https://github.com/lagdo/tontine)  
-Laravel-powered tontine management system built with Jaxon
+African tontine management system built with Laravel and Jaxon
 
 ### **Developer Tools**
 [![Temporal-Symfony](https://github-readme-stats.vercel.app/api/pin/?username=feuzeu&repo=temporal-symfony-samples&theme=radical)](https://github.com/feuzeu/temporal-symfony-samples)  
-Production-ready Temporal workflow samples for Symfony
+Samples Symfony API and workers running Temporal workflows
 
-[![Service Facades](https://github-readme-stats.vercel.app/api/pin/?username=lagdo&repo=facades&theme=radical)](https://github.com/facades/facades)  
-Cross-framework service container abstraction for PHP
+[![Service Facades](https://github-readme-stats.vercel.app/api/pin/?username=lagdo&repo=facades&theme=radical)](https://github.com/lagdo/facades)  
+Cross-framework service facades for PHP applications
+
+[![HTML UI Builder](https://github-readme-stats.vercel.app/api/pin/?username=lagdo&repo=ui-builder-mono&theme=radical)](https://github.com/lagdo/ui-builder-mono)  
+HTML UI Builder with support of multiple frontend frameworks
+
+### **Database Tools**
+[![Jaxon DbAdmin](https://github-readme-stats.vercel.app/api/pin/?username=lagdo&repo=dbadmin-mono&theme=radical)](https://github.com/lagdo/dbadmin-mono)  
+Full Ajax database admin tool with an innovative user access system.
 
 ---
 
@@ -70,16 +77,6 @@ Cross-framework service container abstraction for PHP
 [![Thierry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=feuzeu&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)](https://github.com/feuzeu)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=feuzeu&layout=compact&theme=radical&hide_border=true&langs_count=6)](https://github.com/feuzeu)
-
----
-
-## 🌟 Project Highlights
-
-| Category       | Project Links |
-|----------------|---------------|
-| **Workflow Samples** | [Temporal Sample apps](https://github.com/feuzeu/temporal-symfony-samples) |
-| **Database Tools** | [Jaxon DbAdmin](https://github.com/lagdo/dbadmin-mono) |
-| **UI Libraries** | [HTML UI Builder](https://github.com/lagdo/ui-builder-mono) |
 
 ---
 
