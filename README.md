@@ -58,7 +58,7 @@ African tontine management system built with Laravel and Jaxon
 
 ### **Developer Tools**
 [![Temporal-Symfony](https://github-readme-stats.vercel.app/api/pin/?username=feuzeu&repo=temporal-symfony-samples&theme=radical)](https://github.com/feuzeu/temporal-symfony-samples)  
-Samples Symfony API and workers running Temporal workflows
+Sample Symfony API and workers running Temporal workflows
 
 [![Service Facades](https://github-readme-stats.vercel.app/api/pin/?username=lagdo&repo=facades&theme=radical)](https://github.com/lagdo/facades)  
 Cross-framework service facades for PHP applications
