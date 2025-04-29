@@ -35,14 +35,14 @@ I automate financial group management for traditional African tontines through c
 ![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white)
 ![Jaxon](https://img.shields.io/badge/Jaxon-Component_Ajax-8DD6F9?logo=php)
 
-### **Frontend Integration**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-
 ### **Workflow & Infrastructure**
 ![Temporal](https://img.shields.io/badge/Temporal-Durable_Workflows-5BC0EB?logo=kubernetes)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white)
+
+### **Frontend Integration**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
 ---
 
