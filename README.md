@@ -68,7 +68,7 @@ HTML UI Builder with support of multiple frontend frameworks
 
 ### **Database Tools**
 [![Jaxon DbAdmin](https://github-readme-stats.vercel.app/api/pin/?username=lagdo&repo=dbadmin-mono&theme=radical)](https://github.com/lagdo/dbadmin-mono)  
-Full Ajax database admin tool with an innovative user access system.
+Full Ajax database admin tool with an innovative user access system
 
 ---
 
